@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dev-RAnsh/Java_Dsa/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/Dev-RAnsh/Java_Dsa/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Dev-RAnsh/Java_Dsa/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dev-RAnsh/Java_Dsa/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/Dev-RAnsh/Java_Dsa/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
